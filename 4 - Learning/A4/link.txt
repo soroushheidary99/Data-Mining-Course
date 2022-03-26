@@ -1,0 +1,5 @@
+https://www.kaggle.com/tentotheminus9/linear-regression-from-scratch-gradient-descent
+
+https://concise.org/notes/machine-learning/linear-regression/gradient-descent
+
+cs pdf idm
